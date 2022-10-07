@@ -104,4 +104,3 @@ theme: themesparticlex
 deploy:
   type: git
   repo: https://github.com/Aiter64/Aiter64.github.io.git
-  branch: master
